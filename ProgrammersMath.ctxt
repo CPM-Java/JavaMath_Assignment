@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ orderOfOperations()
+comment1.params=x\ y
+comment1.target=int\ integerDivisionI(int,\ int)
+comment1.text=\n\ What\ happens\ when\ an\ integer\ is\ divided\ by\ an\ integer\ and\ stored\ as\ an\ integer?\n\ Try\ several\ values\ for\ x\ and\ y,\ some\ evenly\ divisible\ values\ and\ some\ not.\n\ Are\ there\ unexpected\ outcomes?\n\ \n\ @param\ \ x\ \ \ an\ integer\n\ @param\ \ y\ \ \ an\ integer\n\ @return\ \ \ \ \ the\ quotient\ of\ x\ and\ y\ as\ an\ integer\n
+comment2.params=x\ y
+comment2.target=double\ integerDivisionII(int,\ int)
+comment2.text=\n\ What\ happens\ when\ an\ integer\ is\ divided\ by\ an\ integer\ and\ stored\ as\ a\ double?\n\ Try\ several\ values\ for\ x\ and\ y,\ some\ evenly\ divisible\ values\ and\ some\ not.\n\ Are\ there\ unexpected\ outcomes?\n\ \n\ @param\ \ x\ \ \ an\ integer\n\ @param\ \ y\ \ \ an\ integer\n\ @return\ \ \ \ \ the\ quotient\ of\ x\ and\ y\ as\ a\ double\n
+comment3.params=x\ y
+comment3.target=double\ doubleDivisionI(double,\ int)
+comment3.text=\n\ What\ happens\ when\ a\ double\ is\ divided\ by\ an\ integer\ and\ stored\ as\ a\ double?\n\ Try\ several\ values\ for\ x\ and\ y,\ some\ evenly\ divisible\ values\ and\ some\ not.\n\ Are\ there\ unexpected\ outcomes?\n\ \n\ @param\ \ x\ \ \ a\ double\n\ @param\ \ y\ \ \ an\ integer\n\ @return\ \ \ \ \ the\ quotient\ of\ x\ and\ y\ as\ a\ double\n
+comment4.params=x\ y
+comment4.target=int\ doubleDivisionII(double,\ int)
+comment4.text=\n\ What\ happens\ when\ a\ double\ is\ divided\ by\ an\ integer\ and\ cast\ as\ an\ integer?\n\ Try\ several\ values\ for\ x\ and\ y,\ some\ evenly\ divisible\ values\ and\ some\ not.\n\ Are\ there\ unexpected\ outcomes?\n\ \n\ @param\ \ x\ \ \ a\ double\n\ @param\ \ y\ \ \ an\ integer\n\ @return\ \ \ \ \ the\ quotient\ of\ x\ and\ y\ cast\ as\ an\ integer\n
+comment5.params=x\ y
+comment5.target=double\ doubleDivisionIII(int,\ double)
+comment5.text=\n\ What\ happens\ when\ an\ integer\ is\ divided\ by\ a\ double\ and\ stored\ as\ a\ double?\n\ Try\ several\ values\ for\ x\ and\ y,\ some\ evenly\ divisible\ values\ and\ some\ not.\n\ Are\ there\ unexpected\ outcomes?\n\ \n\ @param\ \ x\ \ \ a\ integer\n\ @param\ \ y\ \ \ a\ double\n\ @return\ \ \ \ \ the\ quotient\ of\ x\ and\ y\ as\ a\ double\n
+comment6.params=x\ y
+comment6.target=double\ doubleDivisionAsPartOfAnExpression(double,\ double)
+comment6.text=\n\ What\ happens\ when\ a\ double\ is\ divided\ by\ a\ double\ in\ an\ expression\ and\ stored\ as\ a\ double?\n\ Try\ several\ values\ for\ x\ and\ y,\ some\ evenly\ divisible\ values\ and\ some\ not.\n\ Are\ there\ unexpected\ outcomes?\n\ \n\ @param\ \ x\ \ \ a\ double\n\ @param\ \ y\ \ \ a\ double\n\ @return\ \ \ \ \ the\ quotient\ of\ x\ and\ y\ as\ a\ double\n
+comment7.params=x\ y
+comment7.target=int\ modulus(int,\ int)
+comment7.text=\n\ The\ %\ is\ called\ the\ modulus.\n\ Try\ several\ values\ for\ x\ and\ y,\ some\ evenly\ divisible\ values\ and\ some\ not.\n\ What\ is\ the\ modulus\ calculation\ doing?\n\ \n\ @param\ \ x\ \ \ an\ integer\n\ @param\ \ y\ \ \ an\ integer\n\ @return\ \ \ \ \ the\ modulus\ of\ x\ and\ y\ as\ an\ integer\n
+numComments=8
